@@ -1,6 +1,6 @@
 Package: plotGrouper
 Title: Shiny app GUI wrapper for ggplot with built-in statistical analysis
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: person("John D.", "Gagnon", 
   email = "john.gagnon.42@gmail.com", 
   role = c("aut", "cre"))
@@ -43,7 +43,7 @@ Suggests:
     rmarkdown,
     testthat
 VignetteBuilder: knitr
-biocViews: 
+biocViews: ImmunoOncology, 
     FlowCytometry, 
     GraphAndNetwork, 
     StatisticalMethod, 
